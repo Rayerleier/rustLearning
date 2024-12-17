@@ -1,0 +1,6 @@
+[package]
+name = "_7_2_DefiningModulesToControlScopeAndPrivacy"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
