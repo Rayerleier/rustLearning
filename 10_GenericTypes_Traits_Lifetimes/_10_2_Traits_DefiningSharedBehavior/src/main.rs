@@ -60,21 +60,3 @@ where
     // ...
 }
 
-// Using Trait Bounds to Conditionally Implement Methods
-
-use std::fmt::Display;
-
-struct Pair<T> {
-    x: T,
-    y: T,
-}
-
-impl<T: Display + PartialOrd> Pair<T> {
-    fn cmp_display(&self) {
-        if self.x >= self.y {
-            println!("The largest member is x = {}", self.x);
-        } else {
-            println!("The largest member is y = {}", self.y);
-        }
-    }
-}
