@@ -1,0 +1,5 @@
+/Users/rayer/Documents/Code/rust/rustLearning/12_AnIO_Project_Building_a_CommandLineProgram/_12_5_WorkingWithEnvironmentVairables/target/debug/deps/_12_5_WorkingWithEnvironmentVairables-0a2bbe2fa866655e: src/main.rs
+
+/Users/rayer/Documents/Code/rust/rustLearning/12_AnIO_Project_Building_a_CommandLineProgram/_12_5_WorkingWithEnvironmentVairables/target/debug/deps/_12_5_WorkingWithEnvironmentVairables-0a2bbe2fa866655e.d: src/main.rs
+
+src/main.rs:

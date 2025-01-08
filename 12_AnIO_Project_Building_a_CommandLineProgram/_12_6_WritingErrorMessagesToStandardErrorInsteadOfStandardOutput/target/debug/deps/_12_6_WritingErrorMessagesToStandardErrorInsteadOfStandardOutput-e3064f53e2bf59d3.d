@@ -1,0 +1,5 @@
+/Users/rayer/Documents/Code/rust/rustLearning/12_AnIO_Project_Building_a_CommandLineProgram/_12_6_WritingErrorMessagesToStandardErrorInsteadOfStandardOutput/target/debug/deps/_12_6_WritingErrorMessagesToStandardErrorInsteadOfStandardOutput-e3064f53e2bf59d3: src/main.rs
+
+/Users/rayer/Documents/Code/rust/rustLearning/12_AnIO_Project_Building_a_CommandLineProgram/_12_6_WritingErrorMessagesToStandardErrorInsteadOfStandardOutput/target/debug/deps/_12_6_WritingErrorMessagesToStandardErrorInsteadOfStandardOutput-e3064f53e2bf59d3.d: src/main.rs
+
+src/main.rs:

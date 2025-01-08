@@ -1,0 +1,1 @@
+/Users/rayer/Documents/Code/rust/rustLearning/12_AnIO_Project_Building_a_CommandLineProgram/_12_2_ReadingAFile/target/debug/_12_2_ReadingAFile: /Users/rayer/Documents/Code/rust/rustLearning/12_AnIO_Project_Building_a_CommandLineProgram/_12_2_ReadingAFile/src/main.rs
