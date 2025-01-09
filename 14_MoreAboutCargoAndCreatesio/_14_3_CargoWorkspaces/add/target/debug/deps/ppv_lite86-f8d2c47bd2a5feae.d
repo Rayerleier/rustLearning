@@ -1,0 +1,10 @@
+/Users/rayer/Documents/Code/rust/rustLearning/14_MoreAboutCargoAndCreatesio/_14_3_CargoWorkspaces/add/target/debug/deps/libppv_lite86-f8d2c47bd2a5feae.rmeta: /Users/rayer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/lib.rs /Users/rayer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/soft.rs /Users/rayer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/types.rs /Users/rayer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/generic.rs
+
+/Users/rayer/Documents/Code/rust/rustLearning/14_MoreAboutCargoAndCreatesio/_14_3_CargoWorkspaces/add/target/debug/deps/libppv_lite86-f8d2c47bd2a5feae.rlib: /Users/rayer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/lib.rs /Users/rayer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/soft.rs /Users/rayer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/types.rs /Users/rayer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/generic.rs
+
+/Users/rayer/Documents/Code/rust/rustLearning/14_MoreAboutCargoAndCreatesio/_14_3_CargoWorkspaces/add/target/debug/deps/ppv_lite86-f8d2c47bd2a5feae.d: /Users/rayer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/lib.rs /Users/rayer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/soft.rs /Users/rayer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/types.rs /Users/rayer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/generic.rs
+
+/Users/rayer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/lib.rs:
+/Users/rayer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/soft.rs:
+/Users/rayer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/types.rs:
+/Users/rayer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/generic.rs:
