@@ -1,0 +1,1 @@
+/Users/rayer/Documents/Code/rust/rustLearning/13_FunctionalLanguageFeatures_IteratiorsAndClosures/_13_2_ProcessingASeriesOfItemsWithIterations/target/debug/lib_13_2_ProcessingASeriesOfItemsWithIterations.rlib: /Users/rayer/Documents/Code/rust/rustLearning/13_FunctionalLanguageFeatures_IteratiorsAndClosures/_13_2_ProcessingASeriesOfItemsWithIterations/src/lib.rs

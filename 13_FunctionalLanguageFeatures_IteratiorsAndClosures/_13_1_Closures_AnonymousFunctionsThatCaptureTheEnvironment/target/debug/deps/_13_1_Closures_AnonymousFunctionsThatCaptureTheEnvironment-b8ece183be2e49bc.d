@@ -1,0 +1,5 @@
+/Users/rayer/Documents/Code/rust/rustLearning/13_FunctionalLanguageFeatures_IteratiorsAndClosures/_13_1_Closures_AnonymousFunctionsThatCaptureTheEnvironment/target/debug/deps/_13_1_Closures_AnonymousFunctionsThatCaptureTheEnvironment-b8ece183be2e49bc: src/main.rs
+
+/Users/rayer/Documents/Code/rust/rustLearning/13_FunctionalLanguageFeatures_IteratiorsAndClosures/_13_1_Closures_AnonymousFunctionsThatCaptureTheEnvironment/target/debug/deps/_13_1_Closures_AnonymousFunctionsThatCaptureTheEnvironment-b8ece183be2e49bc.d: src/main.rs
+
+src/main.rs:

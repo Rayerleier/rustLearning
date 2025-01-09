@@ -1,0 +1,5 @@
+/Users/rayer/Documents/Code/rust/rustLearning/13_FunctionalLanguageFeatures_IteratiorsAndClosures/_13_2_ProcessingASeriesOfItemsWithIterations/target/debug/deps/_13_2_ProcessingASeriesOfItemsWithIterations-0b8318c3b15ca585: src/main.rs
+
+/Users/rayer/Documents/Code/rust/rustLearning/13_FunctionalLanguageFeatures_IteratiorsAndClosures/_13_2_ProcessingASeriesOfItemsWithIterations/target/debug/deps/_13_2_ProcessingASeriesOfItemsWithIterations-0b8318c3b15ca585.d: src/main.rs
+
+src/main.rs:
